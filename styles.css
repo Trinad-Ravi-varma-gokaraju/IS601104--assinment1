@@ -1,0 +1,183 @@
+.about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.about-image img {
+    max-width: 100%;
+    height: auto;
+    max-height: 200px;
+}
+
+.about-image {
+    margin-bottom: 20px;
+}
+
+.parent-EXPERIENCEcontainer {
+    width: 950px;
+    /* Adjust as needed */
+    top: 30px;
+    height: 350px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.child-projectcontainer1 {
+    position: absolute;
+    text-align: center;
+    top: 740px;
+    left: 630px;
+    width: 200px;
+    height: 50px;
+}
+
+.child-projectcontainer2 {
+    position: absolute;
+    top: 790px;
+    left: 650px;
+    width: 550px;
+    height: 100px;
+}
+
+.child-projectcontainer3 {
+    position: absolute;
+    top: 880px;
+    left: 350px;
+    width: 300px;
+    height: 120px;
+}
+
+.child-projectcontainer4 {
+    position: absolute;
+    top: 790px;
+    left: 350px;
+    width: 300px;
+    height: 100px;
+}
+
+.child-projectcontainer5 {
+    position: absolute;
+    top: 880px;
+    left: 650px;
+    width: 550px;
+    height: 120px;
+}
+
+.child-projectcontainer6 {
+    position: absolute;
+    top: 990px;
+    left: 350px;
+    width: 300px;
+    height: 100px;
+}
+
+.child-projectcontainer7 {
+    position: absolute;
+    top: 990px;
+    left: 650px;
+    width: 550px;
+    height: 100px;
+}
+
+.title-bar {
+    background-color: #333;
+    padding: 10px;
+}
+
+.button-container {
+    text-align: center;
+}
+
+.button {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border-radius: 5px;
+    background-color: #555;
+}
+
+.button:hover {
+    background-color: #777;
+}
+
+.section {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.section h2 {
+    margin-bottom: 10px;
+}
+
+.section p {
+    margin-bottom: 20px;
+}
+
+.fa {
+    margin-right: 10px;
+}
+
+.parent-projectcontainer {
+    width: 950px;
+    height: 250px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.child-EXPERIENCEcontainer1 {
+    position: absolute;
+    text-align: center;
+    top: 450px;
+    left: 650px;
+    width: 200px;
+    height: 50px;
+}
+
+.child-EXPERIENCEcontainer2 {
+    position: absolute;
+    display: flex;
+    top: 500px;
+    left: 650px;
+    width: 550px;
+    height: 250px;
+}
+
+.child-EXPERIENCEcontainer3 {
+    position: absolute;
+    text-align: center;
+    display: flex;
+    top: 520px;
+    left: 350px;
+    width: 200px;
+    height: 70px;
+}
+
+.child-EXPERIENCEcontainer4 {
+    position: absolute;
+    text-align: center;
+    display: flex;
+    top: 630px;
+    left: 350px;
+    width: 200px;
+    height: 70px;
+}
+
+#skills h2 {
+    text-align: center;
+    /* Aligns the text to the center */
+}
+
+#skills table {
+    margin: 0 auto;
+    /* This will center the table horizontally */
+}
